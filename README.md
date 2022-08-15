@@ -1,6 +1,6 @@
 Howdy! I'm Kelvin Somtochukwu Ojiako
 
-A junior software engineer @ KBS. Recently picked up Kotlin & its been an exciting switch from Java.
+A junior software dev @ KBS. Recently picked up Kotlin & its been an exciting switch from Java.
 
 Currently focusing on web development, previously used Spring with Java before finding Kvision, ktor & Spring Boot Kotlin
 Also found Gradle along the way and its flexibility in build automation is something I can't stop talking about. Folks who've made the switch from Maven understand the pom.xml hustle with them tags. 
