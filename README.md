@@ -1,9 +1,9 @@
 Howdy! I'm Kelvin Somtochukwu Ojiako
 
-Recently picked up Kotlin & its been an exciting switch from Java.
+I'm a cross platform developer who mainly specialises in Kotlin Multiplatform. At the moment, I am learning Compose Web (the latest version that uses canvas) and plan to expand to android and IOS development later on. I also plan to delve into data science after mastering Multiplatform development.
 
-Currently focusing on web development, previously used Spring with Java before finding Kvision, ktor & Spring Boot Kotlin Also found Gradle along the way and its flexibility in build automation is something I can't stop talking about. Folks who've made the switch from Maven understand the pom.xml hustle with them tags.
-
-Interested in learning about AI & ML later on after mastering web development in Kotlin.
-
-Android development is also another field I'm gearing towards
+Some projects I am working on or plan to begin soon:
+COmpose Multiplatform Full Stack template for creating full stack applications that can target other architectures using jetpack compose's declarative UI toolkit.
+A chess Neural network that can someday reach the level of alpha zero
+An Inventory Management and restocking software with some pretty cool feautes
+A chess App that can help train and improve rating
